@@ -5,11 +5,12 @@ A native library providing a Tinder-like cards effect. A card can be constructed
 
 #How to play?
 >> Swipe to left or right to change cards.
+
 >> Click to the card to start learning.
 
 #Screenshots:
 <img src="/screenshots/ss_01.png" height="400px"/>
-<img src="/screenshots/ss_02" height="400px"/>
+<img src="/screenshots/ss_02.png" height="400px"/>
 
 ##Download
 <a href="https://play.google.com/store/apps/details?id=com.tara.fc">
