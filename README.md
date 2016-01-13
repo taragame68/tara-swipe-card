@@ -3,4 +3,18 @@ A native library providing a Tinder-like cards effect. A card can be constructed
 
 <img src="/screenshots/ic_luncher.png" height="200px"/> <br>
 
-https://play.google.com/store/apps/details?id=com.tara.fc
+#How to play?
+>> Swipe to left or right to change cards.
+>> Click to the card to start learning.
+
+#Screenshots:
+<img src="/screenshots/ss_01.png" height="400px"/>
+<img src="/screenshots/ss_02" height="400px"/>
+
+##Download
+<a href="https://play.google.com/store/apps/details?id=com.tara.fc">
+  <img alt="Get it on Google Play"
+       src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
+</a>
+
+
